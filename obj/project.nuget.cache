@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IM2iZLOoHY5fifWlq5RK8o4aF4P2tnKA/dwVAvkz04ELtTRNcutX4cjZfoORkje1pLkr3KjxJfaGGZgX1fS9uw==",
+  "dgSpecHash": "ErqWTuybTgQR1+FvdRCr5/RFI8/5X0amho+WSWrLD2geWCWMZ3jFZDZ+0RsXb5Sfx7u7vrgGe+pw+6Mq0/oGxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\waeld\\OneDrive\\Desktop\\BookStoreApi\\BookStoreApi.csproj",
+  "projectFilePath": "C:\\Users\\waeld\\OneDrive\\Desktop\\booksapi\\BookStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\waeld\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\waeld\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1247,11 +1247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\waeld\\OneDrive\\Desktop\\BookStoreApi\\BookStoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\waeld\\OneDrive\\Desktop\\booksapi\\BookStoreApi.csproj",
       "projectName": "BookStoreApi",
-      "projectPath": "C:\\Users\\waeld\\OneDrive\\Desktop\\BookStoreApi\\BookStoreApi.csproj",
+      "projectPath": "C:\\Users\\waeld\\OneDrive\\Desktop\\booksapi\\BookStoreApi.csproj",
       "packagesPath": "C:\\Users\\waeld\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\waeld\\OneDrive\\Desktop\\BookStoreApi\\obj\\",
+      "outputPath": "C:\\Users\\waeld\\OneDrive\\Desktop\\booksapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\waeld\\AppData\\Roaming\\NuGet\\NuGet.Config"
